@@ -4,3 +4,4 @@ Sandbox for testing workflow on GitHub
 - foo
 - bar
 - baz
+- foo
